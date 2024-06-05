@@ -63,6 +63,7 @@ a {
     padding: 0 100px 0 0;
 }
 .card__title{
+    padding-top: 20px;
     font-size: 46px;
 }
 .card__money{
