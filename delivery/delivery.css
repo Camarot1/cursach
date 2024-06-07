@@ -98,3 +98,11 @@ a {
     padding: 10px 20px;
     cursor: pointer;
 }
+@media (max-width:768px) {
+    .item__money{
+        font-size: 13px;
+    }
+    .text__description{
+        font-size: 13px;
+    }
+}
