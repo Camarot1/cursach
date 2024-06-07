@@ -77,13 +77,16 @@ a.text:active {
 }
 
 .footer__logo {
-    padding: 10px 0 10px 0;
+    padding: 0 0 10px 0;
     display: flex;
     gap: 22px;
 }
 
 .footer__avt {
     padding-bottom: 21px;
+}
+.font500{
+    font-weight: 500;
 }
 @media (min-width:1201px) and (max-width:1350px){
     .header__list{

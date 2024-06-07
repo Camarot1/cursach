@@ -70,7 +70,6 @@ a {
     font-size: 36px;
 }
 .main__title{
-    padding: 0 100px 0 0;
     margin: 48px 0;
 }
 .title2-1{
@@ -118,7 +117,7 @@ a {
     bottom: -173px;
     left: 50%;
     background-color: #FAFFC1;
-    width: 70vw;
+    width: 50vw;
 }
 .open-menu__left{
     display: flex;
@@ -133,6 +132,7 @@ a {
 .open-menu__name{
     font-size: 30px;
     margin-top: 20px;
+    padding-left: 30px;
 }
 .open-menu__description{
     max-width: 50%;
@@ -151,7 +151,14 @@ a {
     cursor: pointer;
     background-color: black;
     max-width: 85px;
-    padding: 17px 46px;
+    padding: 17px 47px;
+    margin-bottom: 7px;
+}
+.font700{
+    font-weight: 700;
+}
+.font500{
+    font-weight: 500;
 }
 @media (max-width:1423px) and (min-width:768px) {
     .main__title{

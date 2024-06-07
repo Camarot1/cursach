@@ -98,6 +98,9 @@ a {
     padding: 10px 20px;
     cursor: pointer;
 }
+.font700{
+    font-weight: 700;
+}
 @media (max-width:768px) {
     .item__money{
         font-size: 13px;
