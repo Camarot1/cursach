@@ -33,7 +33,7 @@ a {
     align-items: center;
 }
 .main__title{
-    font-size: 46px;
+    font-size: 35px;
 }
 
 .card__button {
@@ -73,9 +73,6 @@ a {
     margin: 48px 0;
 }
 .title2-1{
-    font-size: 30px;
-}
-.money2-1{
     font-size: 30px;
 }
 .title2-3{
@@ -160,6 +157,12 @@ a {
 .font500{
     font-weight: 500;
 }
+.card__title3{
+    font-size: 30px;
+}
+.card__img4{
+    margin-bottom: 12px;
+}
 @media (max-width:1423px) and (min-width:768px) {
     .main__title{
         font-size: 35px;
@@ -188,7 +191,7 @@ a {
     }
     .title2-2{
         margin-top: 20px;
-        margin-bottom: 20px;
+        margin-bottom: 50px;
     }
     .money3{
         margin-top: 20px;
